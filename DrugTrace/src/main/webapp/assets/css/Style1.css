@@ -1,0 +1,51 @@
+/*Member reg1------------------------------------------------------  */
+ #memberreg1 {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/img.jpg") top center;
+  background-size: cover;
+  position: relative;
+}
+
+.memberreg1 .icon-box {
+  padding: 2px;
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 10px 0;
+  background: #fff;
+   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1); 
+  transition: all 0.3s ease-in-out;
+  border-radius: 15px;
+  text-align: center;
+  border-bottom: 3px solid #fff;
+}
+.memberreg1 .icon-box:hover {
+  transform: translateY(-5px);
+  border-color: #ef7f4d;
+  text-align:center;
+}
+.memberreg1 .icon i {
+  font-size: 48px;
+  line-height: 1;
+  margin-bottom: 15px;
+  color: #ef7f4d;
+}
+.memberreg1 .title {
+  font-weight: 400;
+  margin-bottom: 5px;
+  padding:2px;
+  font-size: 18px;
+}
+.memberreg1 .title a {
+  color: #111;
+  
+}
+.memberreg1 .description {
+  font-size: 10px;
+  line-height: 20px;
+  margin-bottom: 0;
+  text-align: center;
+}
+.memberreg1 .description .row{
+	align:center;
+}
