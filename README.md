@@ -1,9 +1,10 @@
 # DRUG-TRACEABILITY-IN-HEALTHCARE-SUPPLY-CHAIN-USING-BLOCKCHAIN-Final-Year-Project-
 
 # About Full Version
-If you need full version on this project then DM Us on Instagram @swapniltake_patil or Linkedin @swapniltake1 for Demo video follow this link https://youtu.be/kjhVnbffU-0
+If you need full version on this project then DM Us on Instagram @swapniltake_patil or Linkedin @swapniltake1 for Demo video follow this link : 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kjhVnbffU-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/kjhVnbffU-0
+
 
 # Project Information 
 
